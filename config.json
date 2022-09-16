@@ -1,7 +1,7 @@
 {
   "app_id":"wx28a390118eadb98a",
   "app_secret":"ce8ae21612140b104786e0654be73329",
-  "template_id": "KEuRwq-EOY58SxrBMCKSxDJcFcln2VPThCTp7NLNK4E",
+  "template_id": "ACp4yc1hcw9WYG8Ml55kSXScq8XacN3povh8n9fWFpY",
   "user":["o100568x2YWBOoLkD8FnaoO4n0ug"],
   "province": "河南",
   "city": "安阳",
@@ -9,7 +9,7 @@
   "birthday2": "2001-5-22",
   "birthday3": "2000-12-26",
   "love_date": "2021-1-14",
-  "Whether_Eng": "",
+  "Whether_Eng": true,
   "Whether_caihongpi": false,
   "Whether_lizhi": false,
   "Whether_tip": "480f99bb4b1a5b5bf19f992f32237913",
